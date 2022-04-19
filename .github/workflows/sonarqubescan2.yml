@@ -1,4 +1,5 @@
 name: sonarqube scan
+on: [push]
 jobs:
   build:
    
